@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699125406 source:c:\users\pc\documents\html\arbre_pointeur\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1702164425 source:c:\users\pc\documents\sdd\arbre_pointeur\main.c
+	<stdio.h>
+	<stdlib.h>
+
